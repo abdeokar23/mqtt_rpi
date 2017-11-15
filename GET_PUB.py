@@ -1,4 +1,4 @@
-mport sys
+import sys
 import subprocess
 import re
 import paho.mqtt.client as mqtt
